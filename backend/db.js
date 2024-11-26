@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 
 mongoose.connect(
-  "mongodb+srv://shivamg998764:P4m4ZM6EAKeu2vSg@cluster0.3dmlh.mongodb.net/main"
+  "ur url"
 );
 // Create a Schema for Users
 const userSchema = new mongoose.Schema({
